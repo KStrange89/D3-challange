@@ -6,4 +6,4 @@ Given a CSV, I used D3 through Javascript, HTML, and Python to complete the anal
 
 ![alt text](https://github.com/KStrange89/D3-challenge/blob/main/images/graph.png)
 
-This can be viewed at https://kstrange89.github.io/D3-challange/
+This can be viewed at https://kstrange89.github.io/D3-challenge/
